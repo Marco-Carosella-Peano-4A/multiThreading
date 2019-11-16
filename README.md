@@ -1,6 +1,11 @@
 # multiThreading
+##Teoria:
+Il multithreading è la capacità di mandare in esecuzione più thread allo stesso momento. Un thread è, in informatica, la suddivisione di un processo in più istanze
+
+
 ## Esercizio 1
-Abbiamo realizzato il programma utilizzando il multi-threading, abbiamo creato un programma che stampa 10 volte la parola Hi e 10 volte la parola Hello in modo randomico. In base al protocollo FCFS(first come first served) il sistema operativo decide quale tra hi ed hello viene eseguito per primo.
+Un thread 
+Abbiamo realizzato il programma utilizzando il multi-threading, abbiamo creato un programma che stampa 10 volte la parola Hi e 10 volte la parola Hello in modo randomico. Il sistema operativo decide quale tra hi ed hello viene eseguito per primo.
 
 prima esecuzione del programma:
 run:
