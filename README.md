@@ -1,6 +1,8 @@
 # multiThreading
-Abbiamo realizzato il programma utilizzando il multi-threading, abbiamo creato un programma che stampa 10 volte la parola Hi e 10 volte la parola Hello in modo randomico.
-esecuzione del programma:
+## Esercizio 1
+Abbiamo realizzato il programma utilizzando il multi-threading, abbiamo creato un programma che stampa 10 volte la parola Hi e 10 volte la parola Hello in modo randomico. In base al protocollo FCFS(first come first served) il sistema operativo decide quale tra hi ed hello viene eseguito per primo.
+
+prima esecuzione del programma:
 run:
 Hi
 Hi
