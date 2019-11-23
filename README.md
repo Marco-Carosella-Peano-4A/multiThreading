@@ -5,7 +5,6 @@ Il multithreading migliora le prestazioni dei programmi solamente quando questi 
 
 
 ## Esercizio 1
-Un thread 
 Abbiamo realizzato il programma utilizzando il multi-threading, abbiamo creato un programma che stampa 10 volte la parola Hi e 10 volte la parola Hello in modo randomico. Il sistema operativo decide quale tra hi ed hello viene eseguito per primo.
 Abbiamo creato due classi: una Hi, e l'altra Hello, abbiamo esteso il Thread e usato il comando run per mandare in esecuzione entrambi i processi.
 
